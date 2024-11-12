@@ -14,4 +14,7 @@ Hands-on implementation of several projects on DevOps and Cloud.
 - **Secure Kubernetes Cluster on AWS EKS**  
   A secure Kubernetes cluster setup on AWS EKS, with best practices in security and cluster management.
   - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/kubernetes-learn/eks-console.md)**
+ 
+- **Git and GitHub for Absolute Beginners**  
+   GitHub Repository: [https://github.com/mir-owahed/DevOps-tutorial/blob/Main/git/git-github-tutorial.md](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/git/git-github-tutorial.md)
 
