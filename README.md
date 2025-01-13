@@ -13,7 +13,7 @@ Hands-on implementation of several projects on DevOps and Cloud.
 
 - **Portfolio/Documentation Website with Docusaurus & GitHub Pages**  
   Built a personal website using Docusaurus and GitHub Pages, with automated deployment via GitHub Actions.
-  - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/website-learn/create-deploy-static-website.md)**
+  - **[GitHub Repo](https://github.com/mir-owahed/learn-with-mir)**
 
 - **Secure Kubernetes Cluster on AWS EKS**  
   A secure Kubernetes cluster setup on AWS EKS, with best practices in security and cluster management.
