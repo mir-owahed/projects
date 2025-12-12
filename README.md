@@ -22,3 +22,7 @@ Hands-on implementation of several projects on DevOps and Cloud.
 - **Git and GitHub for Absolute Beginners**  
   A beginner-friendly guide on using Git and GitHub, covering repository setup, SSH configuration, and code management.
   - **[GitHub Repo](https://github.com/mir-owahed/DevOps-tutorial/blob/Main/git/git-github-tutorial.md)**
+ 
+- **AI-Assistant-A-RAG-Based-Chatbot-using-LLM**  
+  Design and Implementation of a Library AI Assistant: A RAG-Based Chatbot Leveraging Large Language Models (LLMs)
+  - **[GitHub Repo](https://github.com/mir-owahed/AI-Assistant-A-RAG-Based-Chatbot-using-LLM.git)**
